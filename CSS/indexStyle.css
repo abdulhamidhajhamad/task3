@@ -1,0 +1,14 @@
+.services{
+    text-align: center;
+    background-color: white;
+}
+.textStyle{
+    color: black;
+}
+.style{
+    display: inline-block;
+    width: 25%;
+}
+.i{
+    color: #f25c3d;
+}
